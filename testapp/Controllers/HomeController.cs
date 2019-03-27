@@ -16,8 +16,9 @@ namespace testapp.Controllers
         }
         public string test()
         {
-
+            string str = "Test string";
             return "test is pass";
+
         }
     }
 }
