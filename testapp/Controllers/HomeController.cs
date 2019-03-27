@@ -16,6 +16,7 @@ namespace testapp.Controllers
         }
         public string test()
         {
+
             return "test is pass";
         }
     }
