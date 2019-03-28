@@ -12,6 +12,7 @@ namespace testapp.Controllers
         {
             ViewBag.Title = "Home Page";
 
+
             return View();
         }
         public string test()
